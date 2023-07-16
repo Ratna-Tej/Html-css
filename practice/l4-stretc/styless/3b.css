@@ -1,0 +1,25 @@
+.but{
+  
+  font-family: 'Times New Roman', Times, serif;
+  background-color: green;
+  color: white;
+  padding: 8px 15px 8px 15px;
+  margin-left: 10px;
+  margin-right: 10px;
+  border: none;
+  cursor: pointer;
+  transition: padding 0.15s, margin 0.15s, box-shadow 0.15s;
+} 
+.but:active{
+  
+  font-family: 'Times New Roman', Times, serif;
+  background-color: green;
+  color: white;
+  padding: 8px 25px 8px 25px;
+    margin: 0px 0px;
+  border: none;
+  box-shadow: 2px 3px 6px black;
+ 
+ 
+
+}

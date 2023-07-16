@@ -1,0 +1,65 @@
+.subscribe-button{
+  background-color: rgb(200, 14, 14);
+  color: whitesmoke;
+  border: NONE;
+  padding-left: 16px;
+  padding-right: 16px;
+  padding-bottom: 10px;
+  padding-top: 10px;
+  border-radius: 3.5px;
+  cursor: pointer;
+  transition: opacity 0.15s;
+  vertical-align: top;
+}
+.subscribe-button:hover{
+  opacity: 0.6;
+
+}
+.subscribe-button:active{ 
+  opacity: 0.3;
+}
+.class-join{
+  background-color: rgba(255, 255, 255, 0.952);
+  border-color: rgb(72, 72, 248);
+  border-style: solid;
+  border-radius: 2.5px;
+  border-width: 1px;
+  color:rgb(71, 71, 248);
+  padding-left: 16px;
+  padding-right: 16px;
+  padding-bottom: 8px;
+  padding-top: 10px;
+  cursor: pointer;
+  margin-left: 6px;
+  
+  transition: background-color 0.15s, color 0.15s;
+  vertical-align: top;
+}
+.class-join:hover{
+background-color:  rgb(72, 72, 248) ;
+color: rgba(255, 255, 255, 0.952);
+
+}
+.class-join:active{
+opacity: 0.8;
+}
+.class2-tweet{
+background-color: rgb(65, 141, 228);
+color:aliceblue;
+border: NONE;
+padding-left: 16px;
+  padding-right: 16px;
+  padding-bottom: 13px;
+  padding-top: 10px;
+border-radius: 15px;
+font-weight: bold;
+font-size: 12px;
+cursor: pointer;
+margin-left: 7px;
+transition: box-shadow 0.15s;
+vertical-align: top;
+
+}
+.class2-tweet:hover{
+box-shadow: 5px 5px 10px rgba(0,0,0,0.15);
+}
